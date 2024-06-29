@@ -1,5 +1,5 @@
 # europen.cz conference website
-This is the homepage of [EurOpen.CZ](https://www.europen.cz/) spring 2024 conference. Live site is here [56.europen.cz](https://56.europen.cz/).
+This is the homepage of [EurOpen.CZ](https://www.europen.cz/) summer 2024 creative weekend. Live site is here [nectiny.europen.cz](https://nectiny.europen.cz/).
 
 # Technical description
 This website is created using the static website generator [HUGO](https://gohugo.io) with the theme [Docsy](https://www.docsy.dev/) and [Bootstrap](https://getbootstrap.com/) toolbox. It is hosted via [Github pages](https://pages.github.com/) using automatic build and publish workflow.
