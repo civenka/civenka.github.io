@@ -14,11 +14,11 @@ description: Víkendnový seminář Nečtiny 21.-22. září 2024
 <p class="lead mt-3 mb-3 fw-bold">
 20.-22. září 2024 <a href="https://www.zameknectiny.cz/">zámek Nečtiny</a>
 </p>
-<p class="lead mt-3 mb-3">Z úvodníku ... EurOpen se stará nejen o vzdělávání svých členů, ale také myslí na budoucnost. Ta je v našich
-dětech. Proto jsme připravili víkend, který přinese Vašim dětem spoustu zábavy a možná v nich
-zažehne i některá světélka poznání. Zámek Nečtiny nabízí nejen učebny, ale i možnost pokusů a
-atrakcí v zámeckém parku, v případě nepříznivého počasí je možné část aktivit přesunout do
-tělocvičny...<a href="#td-block-4">celý úvodník</a> </p>
+<p class="lead mt-3 mb-3">
+Dva dny plné zábavy, experimentů a nových možností jsou určeny
+pro malé i velké, v programu je něco pro každého člena rodiny. Program vzniká složením nápadů, času a nadšenectví, přispět může každý. Podívejte se na seznam aktivit, doplňujte další nápady, navrhujte jak
+pobavit sebe i mladší generaci a něco zajímavého se přiučit.
+<a href="#td-block-3">více o přípravě semináře</a> </p>
 
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
@@ -26,8 +26,9 @@ tělocvičny...<a href="#td-block-4">celý úvodník</a> </p>
 {{% blocks/lead color="primary" %}}
 Seminář pro malé i velké
 {.h1}
-{{% /blocks/lead %}}
+Tady budou tři boxy popisující hlavní témata a odkazující na další materiály.
 
+{{% /blocks/lead %}}
 
 {{% blocks/section %}}
 Co bude na programu?
@@ -41,21 +42,52 @@ Co bude na programu?
   Přihlásit se
 </a>-->
 
-Struktura připraveného programu:
+Formát semináře
+{.h3}
 
-Formát konference:
-- **Pondělí** *přednáškové bloky od 9 do 17h*, poté večeře a večerní (netechnická) přednáška. Je možno přijet v neděli večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
-- **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí (Kutná Hora nabízí velmi zajímavé odpoledne, od roku 1995 je [zapsána na seznamu UNESCO](https://www.unesco-czech.cz/kutna-hora/predstaveni/))
-- **Středa** dopoledne *exkurze do výrobního závodu Foxconn Kutná Hora, kde [HPE vyrábí superpočítače](https://www.hpe.com/us/en/newsroom/press-release/2022/05/hewlett-packard-enterprise-strengthens-europes-supercomputer-supply-chain-with-new-factory-in-czech-republic.html)* (místo tutorialu).
+- **Pátek** možno přijet v pátek večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
+- **Sobota** *začátek 9h, program do večera*, součástí je oběd a večeře. Zámek Nečtiny nabízí nejen učebny, ale i možnost pokusů a
+atrakcí v zámeckém parku, v případě nepříznivého počasí je možné část aktivit přesunout do tělocvičny. Využití členitého parku a malebného okolí zámku na různé technické i netechnické činnosti. Letecký den (drony, hydraulické a pneumatické rakety), večerní cesta k hrobce, různé aktivity
+v parku. Táborák a v případě dobrého počasí pozorování oblohy s odborným výkladem, rojení broučků s lucerničkami či kolektivní tvorba noční fotografie s dlouhou expozicí.
+- **Neděle** *organizovaný program od 9 do 13h*, poté oběd a individuální program podle počasí a situace (okolní houbařské lesy a turistické cíle). Tradiční je také podpora fotografům, sdílené fotografické pískoviště a inspirace pro práci se světlem. [Popis okolí a možných výletů](https://www.zameknectiny.cz/vylety).
+
+Program
+{.h3}
+- **Veletrh** Trvalá instalace, předváděčka různého vybavení orientovaného na osvojení moderních
+technologií a získání inspirace. 3D tiskárny, vyšívací stroj, programovatelná ruka, chytré diody,
+robotický bublifuk, Gravitrax a mnoho dalšího. Máte sami nějakou zajímavou hračku či přístroj?
+Přivezte je a pochlubte se ostatním. Součástí akce je výstavka různých výrobků a část určená pro
+nejmenší (interaktivní tabule, zvířátková telefonní ústředna).
+- **Workshopy a aktivity** Kratší akce v menší učebně vypsané na konkrétní čas. Doba trvání 30-60 minut. Výběr z
+připravených přednášek a workshopů:
+• Minecraft, tentokrát programování v Javě a IoT stavebnice ESPcraft
+• 256 odstínů šedi, aneb co Herout zatajil – nebojte se vydat si knihu
+• Mikroskopie, zábavné optické experimenty
+• Malování světlem – nebojte se focení s dlouhou expozicí
+• Praktická (bio)chemie 2, aneb co dalšího lze zjistit z moči
+• Výroba LED lampiček/lucerniček
+• Kouzla s hydrofobním ošetřením povrchů
+• Stavba raket, testy pohonů a soutěžní letecký den
+• Šicí a vyšívací dílna, praktický workshop šití malé tašky
+• Lukostřelba
+- **Konzultační a servisní koutek** Přivezte si, co vám nefunguje. Specialisté IoT labu se pokusí vaše nefunkční elektronické zařízení
+opravit a zprovoznit. A možná vám ukáží jak na to.
+
+Pro koho je program určen?
+
+Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za podpory rodičů. Myslíme ale na každého, nezapomínáme na maminky (šicí dílna) ani na teenagery, kterým speciálně doporučujeme zapojit se do organizace a ad-hoc aktivit pro mladší kamarády.
+
 {{% /blocks/section %}}
+
+
+
 {{% blocks/section %}}
 Jak se mohu na programu podílet?
 {.h1}
 
-Kontaktem pro přednášející je email europen@europen.cz.
+V Nečtiněch je aktivním účastníkem každý. Přesto se skupina organizátorů musí zformovat předem, vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím ozvěte, program vzniká složením nápadů, času a nadšenectví pod vedením Jirky Boříka. Kontaktní email je europen@europen.cz.
 
-Vítáme pomoc s organizací příští konfrence, můžete přijít s vlastním tématem či s návrhem na tématickou sekci, nejlepším postupem je účastnit se valné hromady, která proběhne na konferenci v pondělí večer. Nezapomínejte také na to, že připravujeme *víkendový seminář Nečtiny 2024, který bude 21. a 22. září 2024*.
-
+Tady bude CFP neboli seznam aktivit, které zhruba plánujeme.
 
 {{% /blocks/section %}}
 
@@ -63,7 +95,14 @@ Vítáme pomoc s organizací příští konfrence, můžete přijít s vlastní
 <!-- https://github.com/gohugoio/hugo/issues/11272  -->
 {{% blocks/section %}}
 
-**Milí přátelé EurOpenu!**
+**Programový výbor**
+Jiří Bořík,
+Pavel Jindra,
+Jiří Sitera,
+Zdeněk Šustr
+
+**Hlavní organizační partner**
+IoT laboratoř ZČU - https://iotlab.zcu.cz/
 
 {{% /blocks/section %}}
 
