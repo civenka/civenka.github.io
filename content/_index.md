@@ -85,7 +85,7 @@ Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za p
 Jak se mohu na programu podílet?
 {.h1}
 
-V Nečtiněch je aktivním účastníkem každý. Přesto se skupina organizátorů musí zformovat předem, vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím ozvěte, program vzniká složením nápadů, času a nadšenectví pod vedením Jirky Boříka. Kontaktní email je europen@europen.cz.
+V Nečtiněch je aktivním účastníkem každý. Přesto se skupina organizátorů musí zformovat předem, vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím ozvěte, program vzniká složením nápadů, času a nadšenectví pod vedením Jiřího Boříka. První krok k užší spolupráci a informacím je přidat se do mailové skupiny viz odkazy v patičce každé stránky.
 
 Tady bude CFP neboli seznam aktivit, které zhruba plánujeme.
 
