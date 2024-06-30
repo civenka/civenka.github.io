@@ -1,8 +1,8 @@
-baseURL: "https://56.europen.cz/"
+baseURL: "https://civenka.europen.cz/"
 languageCode: cs-CZ
 DefaultContentLanguage: cs
-title: Jarní konference EurOpen.CZ 2024
-description: 56. konference EurOpen.cz 20.-22. května 2024 Kutná Hora
+title: Víkendový seminář EurOpen.CZ Nečtiny 2024
+description: Víkendový seminář EurOpen.cz Nečtiny 21.-22. září 2024
 author: Jiří Sitera
 
 menus:
@@ -10,10 +10,10 @@ menus:
     - name: EurOpen.CZ
       weight: 10
       url: "https://www.europen.cz/"
-    - name: Účastník
+    - name: Program
       weight: 20
       url: "/#td-block-2"
-    - name: Přednášející
+    - name: Zapojit se
       weight: 30
       url: "/#td-block-3"
     - name: O stránce
@@ -21,7 +21,7 @@ menus:
       pageRef: /about
 
 params:
-  subtitle: 56. konference EurOpen.cz 20.-22. května 2024 Kutná Hora
+  subtitle: Víkendový seminář EurOpen.cz Nečtiny 21.-22. září 2024
   ui:
     footer_about_disable: false
     navbar_logo: false

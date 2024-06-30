@@ -1,5 +1,5 @@
 ---
-title: O stránce EurOpen.CZ konference 2024 Kutná Hora
+title: O stránce víkendový seminář EurOpen.CZ Nečtiny 2024
 ---
 
 {{% blocks/section color="dark" %}}
@@ -16,7 +16,7 @@ Tyto webová stránky je vytvořené pomocí statického generátoru webů [HUGO
 [Zdrojové kódy](https://github.com/europen-cz/europen-cz.gihub.io) jsou na githubu, kde lze zároveň komentovat nebo přímo navrhovat editace. Případně je možno kontaktovat autora ([Jiří Sitera](https://siterovi.cz/jiri/)), či využít kontaktů na EurOpen.CZ viz ikony v zápatí stránky. TODO list je zatím [zde](https://siterovi.cz/news/europen.cz/).
 
 ## Credits
-[Pozadí této stránky](https://commons.wikimedia.org/w/index.php?curid=29093978) autor: © Milan Nykodym, Czech Republic, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>.
+
 
 {{% /blocks/section %}}
 
