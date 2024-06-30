@@ -6,11 +6,14 @@ description: Víkendnový seminář Nečtiny 21.-22. září 2024
 
 {{< blocks/cover title="Víkendový seminář Nečtiny 2024" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
-  Program konference
+  Program semináře
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="#td-block-3">
   Zapojit se
 </a>
+<p class="lead mt-3 mb-3 fw-bold">
+20.-22. září 2024 <a href="https://www.zameknectiny.cz/">zámek Nečtiny</a>
+</p>
 <p class="lead mt-3 mb-3">Z úvodníku ... EurOpen se stará nejen o vzdělávání svých členů, ale také myslí na budoucnost. Ta je v našich
 dětech. Proto jsme připravili víkend, který přinese Vašim dětem spoustu zábavy a možná v nich
 zažehne i některá světélka poznání. Zámek Nečtiny nabízí nejen učebny, ale i možnost pokusů a
@@ -21,8 +24,11 @@ tělocvičny...<a href="#td-block-4">celý úvodník</a> </p>
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-Víkendový seminář proběhna 20.-22. září 2024 [zámek Nečtiny](https://www.zameknectiny.cz/).
+Seminář pro malé i velké
+{.h1}
 {{% /blocks/lead %}}
+
+
 {{% blocks/section %}}
 Co bude na programu?
 {.h1}
@@ -56,8 +62,7 @@ Vítáme pomoc s organizací příští konfrence, můžete přijít s vlastní
 <!-- your comment text Nested shortcodes with % notation interpret indentation - pre/code block shows up here  -->
 <!-- https://github.com/gohugoio/hugo/issues/11272  -->
 {{% blocks/section %}}
-Úvodník předsedy
-{.h1}
+
 **Milí přátelé EurOpenu!**
 
 {{% /blocks/section %}}
