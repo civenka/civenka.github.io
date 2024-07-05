@@ -26,7 +26,21 @@ pobavit sebe i mladší generaci a něco zajímavého se přiučit.
 {{% blocks/lead color="primary" %}}
 Seminář pro malé i velké
 {.h1}
-Tady budou tři boxy popisující hlavní témata a odkazující na další materiály.
+<br>
+{{% cardpane-wide %}}
+  {{% card header="<i class='fab fa-youtube'></i> **Experimenty**" %}}
+  {{< youtubepl id="PLPE6_GTrluAgT_VOeJqvl3RE_tsK7QMTM" title="EurOpen.CZ experiments and creations play list" >}}
+  {{% /card %}}
+  {{% card header="**<i class='fa-solid fa-camera-retro'></i> Pro každého něco**" %}}
+  ![Malování světlem](EurOpen-malovani-svetlem.jpg "")
+  <a href="#td-block-3" class="stretched-link"></a>
+  {{% /card %}}
+  {{% card header="**<i class='fa-solid fa-camera-retro'></i> Fotografické pískoviště**" %}}
+  ![fotografické pískoviště](piskoviste.jpg "")
+  <a href="https://europen.cz/f" class="stretched-link"></a>
+  {{% /card %}}
+{{% /cardpane-wide %}}
+
 
 {{% /blocks/lead %}}
 
