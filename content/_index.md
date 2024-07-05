@@ -82,7 +82,7 @@ nejmenší (interaktivní tabule, zvířátková telefonní ústředna).
 • Kouzla s chemií
 • Stavba raket, testy pohonů a soutěžní letecký den
 • Šicí a vyšívací dílna, praktický workshop
-• Velkovní aktivity, orientační běh, lukostřelba, drony.
+• Venkovní aktivity, orientační běh, lukostřelba, drony.
 - **Konzultační a servisní koutek** Přivezte si, co vám nefunguje. Specialisté IoT labu se pokusí vaše nefunkční elektronické zařízení
 opravit a zprovoznit. A možná vám ukáží jak na to.
 
