@@ -72,7 +72,7 @@ technologií a získání inspirace. 3D tiskárny, vyšívací stroj, programova
 robotický bublifuk, Gravitrax a mnoho dalšího. *Máte sami nějakou zajímavou hračku či přístroj?
 Přivezte je a pochlubte se ostatním.* Součástí akce je výstavka různých výrobků a část určená pro
 nejmenší (interaktivní tabule, zvířátková telefonní ústředna).
-- **Workshopy a aktivity** Kratší akce v menší učebně vypsané na konkrétní čas. Doba trvání 30-60 minut. Příklady *přednášek a workshopů*:
+- **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut. Příklady *přednášek a workshopů* z minulých ročníků:
 • Minecraft, programování v Javě a IoT stavebnice ESPcraft
 • Práce s papírem, výroba hraček a experimentů, recyklace materiálů
 • Mikroskopie, zábavné optické experimenty
@@ -81,7 +81,7 @@ nejmenší (interaktivní tabule, zvířátková telefonní ústředna).
 • Jednoduché elektronické obvody, LED svítítka, motůrky a další
 • Kouzla s chemií
 • Stavba raket, testy pohonů a soutěžní letecký den
-• Šicí a vyšívací dílna, praktický workshop
+• Šicí a vyšívací dílna,
 • Venkovní aktivity, orientační běh, lukostřelba, drony.
 - **Konzultační a servisní koutek** Přivezte si, co vám nefunguje. Specialisté IoT labu se pokusí vaše nefunkční elektronické zařízení
 opravit a zprovoznit. A možná vám ukáží jak na to.
@@ -98,13 +98,13 @@ Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za p
 Jak se mohu na programu podílet?
 {.h1}
 
-V Nečtiněch je aktivním účastníkem každý. Přesto se skupina organizátorů musí zformovat předem, vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím *ozvěte, program vzniká složením nápadů, času a nadšenectví pod vedením Jiřího Boříka*. Ozvěte se na **email: borik@civ.zcu.cz**
+V Nečtinech může být aktivním účastníkem každý. Realizační skupina se ale musí zformovat předem, je třeba vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím *ozvěte, program vzniká už teď složením nápadů, času a nadšenectví*. 
 <!--
 **Slovo předsedy programového výboru**
 {.h3}-->
 
 {{< card header="**Slovo předsedy programového výboru**" title="Výzva k účasti na přípravě programu" subtitle=""
-          footer="Kontakt emailem borik@civ.zcu.cz">}}
+          footer="Pište na borik@civ.zcu.cz">}}
 
 Vážení a milí,
 
