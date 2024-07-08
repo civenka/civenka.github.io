@@ -60,7 +60,7 @@ Formát semináře
 {.h3}
 
 - **Pátek** možno přijet v pátek večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
-- **Sobota** *začátek 10h, program do večera*, součástí je oběd a večeře. Zámek Nečtiny nabízí nejen učebny, ale i možnost pokusů a
+- **Sobota** *začátek v 10h, program do večera*, součástí je oběd a večeře. Zámek Nečtiny nabízí nejen učebny, ale i možnost pokusů a
 atrakcí v zámeckém parku, v případě nepříznivého počasí je možné část aktivit přesunout do tělocvičny. Využití členitého parku a malebného okolí zámku na různé technické i netechnické činnosti. Letecký den (drony, hydraulické a pneumatické rakety), večerní cesta k hrobce, různé aktivity
 v parku. Táborák a v případě dobrého počasí pozorování oblohy s odborným výkladem, rojení broučků s lucerničkami či kolektivní tvorba noční fotografie s dlouhou expozicí.
 - **Neděle** *organizovaný program od 9 do 13h*, poté oběd a individuální program podle počasí a situace (okolní houbařské lesy a turistické cíle). Tradiční je také podpora fotografům, sdílené fotografické pískoviště a inspirace pro práci se světlem. [Popis okolí a možných výletů](https://www.zameknectiny.cz/vylety).
