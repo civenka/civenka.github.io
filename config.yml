@@ -10,7 +10,7 @@ menus:
     - name: EurOpen.CZ
       weight: 10
       url: "https://www.europen.cz/"
-    - name: Program
+    - name: Přihlásit se
       weight: 20
       url: "/#td-block-2"
     - name: Zapojit se

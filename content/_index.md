@@ -5,8 +5,8 @@ description: Víkendnový seminář Nečtiny 21.-22. září 2024
 ---
 
 {{< blocks/cover title="Víkendový seminář Nečtiny 2024" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
-  Program semináře
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/LrQMb/">
+  Přihlásit se
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="#td-block-3">
   Zapojit se
@@ -48,13 +48,13 @@ Seminář pro malé i velké
 Co bude na programu?
 {.h1}
 
-
-<!--<a class="btn btn-lg btn-primary me-3 mb-4" href="https://europen.zcu.cz/Anot/56/56poz.pdf">
-  Pozvánka (PDF)
-</a>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/8ozyW/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/LrQMb/">
   Přihlásit se
-</a>-->
+</a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-3">
+  Zapojit se
+</a>
+
 
 Formát semináře
 {.h3}
@@ -86,9 +86,21 @@ nejmenší (interaktivní tabule, zvířátková telefonní ústředna).
 - **Konzultační a servisní koutek** Přivezte si, co vám nefunguje. Specialisté IoT labu se pokusí vaše nefunkční elektronické zařízení
 opravit a zprovoznit. A možná vám ukáží jak na to.
 
+**Podrobný program s časovým plánem letošního ročníku bude zveřejně dva týdny před seminářem.**
+
 Pro koho je program určen?
 
 Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za podpory rodičů. Myslíme ale na každého, nezapomínáme na maminky (šicí dílna) ani na teenagery, kterým speciálně doporučujeme zapojit se do organizace a ad-hoc aktivit pro mladší kamarády.
+
+Jak se přihlásit na seminář?
+{.h1}
+Vyplňte přihlašovací formulář dostupný tlačítekem "přihlásit se".
+
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/LrQMb/">
+  Přihlásit se
+</a>
+
+V případě dotazů či specifických potřeb nás prosím kontaktujte (kontakty viz níže).
 
 {{% /blocks/section %}}
 
