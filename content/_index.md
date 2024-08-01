@@ -86,7 +86,7 @@ nejmenší (interaktivní tabule, zvířátková telefonní ústředna).
 - **Konzultační a servisní koutek** Přivezte si, co vám nefunguje. Specialisté IoT labu se pokusí vaše nefunkční elektronické zařízení
 opravit a zprovoznit. A možná vám ukáží jak na to.
 
-**Podrobný program s časovým plánem letošního ročníku bude zveřejně dva týdny před seminářem.**
+**Podrobný program s časovým plánem letošního ročníku bude zveřejněn dva týdny před seminářem.**
 
 Pro koho je program určen?
 
@@ -94,7 +94,7 @@ Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za p
 
 Jak se přihlásit na seminář?
 {.h1}
-Vyplňte přihlašovací formulář dostupný tlačítekem "přihlásit se".
+Vyplňte přihlašovací formulář dostupný tlačítkem "přihlásit se".
 
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/LrQMb/">
   Přihlásit se
