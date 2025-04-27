@@ -8,13 +8,6 @@ description: Víkendnový seminář Nečtiny 21.-22. září 2024
 <p class="lead mt-3 mb-3 fw-bold">
 Toto je stránka semináře, který proběhl 20.-22. září 2024
 </p>
-<p class="lead mt-3 mb-3">
-Dva dny plné zábavy, experimentů a nových možností jsou určeny
-pro malé i velké, v programu je něco pro každého člena rodiny. Program vzniká složením nápadů, času a nadšenectví, přispět může každý. Podívejte se na seznam aktivit, doplňujte další nápady, navrhujte jak
-pobavit sebe i mladší generaci a něco zajímavého se přiučit.
-<a href="#td-block-3">více o přípravě semináře</a> </p>
-
-{{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
