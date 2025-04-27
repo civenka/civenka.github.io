@@ -1,5 +1,5 @@
 ---
-title: O stránce víkendový seminář EurOpen.CZ Nečtiny 2024
+title: O stránce víkendový seminář EurOpen.CZ Nečtiny 2025
 ---
 
 {{% blocks/section color="dark" %}}

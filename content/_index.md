@@ -1,18 +1,18 @@
 ---
 title: Víkendový seminář EurOpen.CZ Nečtiny
 type: home
-description: Víkendnový seminář Nečtiny 21.-22. září 2024
+description: Víkendnový seminář Nečtiny 13.-14. září 2025
 ---
 
-{{< blocks/cover title="Víkendový seminář Nečtiny 2024" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/LrQMb/">
-  Přihlásit se
+{{< blocks/cover title="Víkendový seminář Nečtiny 2025" image_anchor="top" height="full" >}}
+<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
+  Program semináře
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="#td-block-3">
   Zapojit se
 </a>
 <p class="lead mt-3 mb-3 fw-bold">
-20.-22. září 2024 <a href="https://www.zameknectiny.cz/">zámek Nečtiny</a>
+13.-14. září 2025 <a href="https://www.zameknectiny.cz/">zámek Nečtiny</a>
 </p>
 <p class="lead mt-3 mb-3">
 Dva dny plné zábavy, experimentů a nových možností jsou určeny
@@ -47,14 +47,6 @@ Seminář pro malé i velké
 {{% blocks/section %}}
 Co bude na programu?
 {.h1}
-
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/LrQMb/">
-  Přihlásit se
-</a>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-3">
-  Zapojit se
-</a>
-
 
 Formát semináře
 {.h3}
@@ -92,16 +84,6 @@ Pro koho je program určen?
 
 Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za podpory rodičů. Myslíme ale na každého, nezapomínáme na maminky (šicí dílna) ani na teenagery, kterým speciálně doporučujeme zapojit se do organizace a ad-hoc aktivit pro mladší kamarády.
 
-Jak se přihlásit na seminář?
-{.h1}
-Vyplňte přihlašovací formulář dostupný tlačítkem "přihlásit se".
-
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/LrQMb/">
-  Přihlásit se
-</a>
-
-V případě dotazů či specifických potřeb nás prosím kontaktujte (kontakty viz níže).
-
 {{% /blocks/section %}}
 
 
@@ -111,26 +93,7 @@ Jak se mohu na programu podílet?
 {.h1}
 
 V Nečtinech může být aktivním účastníkem každý. Realizační skupina se ale musí zformovat předem, je třeba vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím *ozvěte, program vzniká už teď složením nápadů, času a nadšenectví*. 
-<!--
-**Slovo předsedy programového výboru**
-{.h3}-->
 
-{{< card header="**Slovo předsedy programového výboru**" title="Výzva k účasti na přípravě programu" subtitle=""
-          footer="Pište na borik@civ.zcu.cz">}}
-
-Vážení a milí,
-
-podzimní workshop v Nečtinech se blíží, tentokrát si dejte do kalendáře rezervaci na víkend 20.-22.9.2024
-
-Formát akce je tradiční, technické a rukodělné aktivity pro mladší ročníky (výrobek ze dřeva ručními nástroji, senzorová lampička, šicí kroužek...) a také blok přednášek, co by mohly zaujmout i dospělý doprovod (soutěže vodíkových autíček, domácí výroba medoviny...).
-
-Program si tvoříme sami, takže kdo máte něco dalšího zajímavého, nebojte se mi napsat. Inspiraci z předchozích let najdete na https://europen.cz/f
-
-Na viděnou se těší,
-
-Jiří Bořík
-za organizátory workshopu EurOpen v Nečtinech
-{{< /card >}}
 
 {{% /blocks/section %}}
 
