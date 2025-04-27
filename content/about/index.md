@@ -15,7 +15,12 @@ Tyto webová stránky je vytvořené pomocí statického generátoru webů [HUGO
 
 [Zdrojové kódy](https://github.com/civenka/civenka.github.io) jsou na githubu, kde lze zároveň komentovat nebo přímo navrhovat editace. Případně je možno kontaktovat autora ([Jiří Sitera](https://siterovi.cz/jiri/)), či využít kontaktů na EurOpen.CZ viz ikony v zápatí stránky. TODO list je zatím [zde](https://siterovi.cz/news/europen.cz/).
 
+## Historie
+
+- [Víkendový seminář Nečtiny 2024](https://nectiny.europen.cz/2024)
+
 ## Credits
+
 
 
 {{% /blocks/section %}}
