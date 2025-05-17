@@ -48,6 +48,9 @@ Seminář pro malé i velké
 Co bude na programu?
 {.h1}
 
+Chcete vědět jak to dopadne, když se na jeden víkend v roce přenese [univerzitní makerspace](https://www.iotlab.zcu.cz/) do polohy "zábava a experimenty pro celou rodinu"?
+Především to bude víkend strávený v příjemném a inspirativním prostředí daleko od moderních měst. Akce zaměřená na rozvíjející a inspirativní aktivity pro celou rodinu, děti, dospělé i dospívající. Snažíme se propojit obyčejné věci a pokročilou techniku, motivovat k tvoření a nadšení z poznávání nového.
+
 Formát semináře
 {.h3}
 
@@ -75,8 +78,8 @@ nejmenší (interaktivní tabule, zvířátková telefonní ústředna).
 • Stavba raket, testy pohonů a soutěžní letecký den
 • Šicí a vyšívací dílna,
 • Venkovní aktivity, orientační běh, lukostřelba, drony.
-- **Konzultační a servisní koutek** Přivezte si, co vám nefunguje. Specialisté IoT labu se pokusí vaše nefunkční elektronické zařízení
-opravit a zprovoznit. A možná vám ukáží jak na to.
+- **Konzultační a servisní koutek** Přivezte si, co vám nefunguje, elektroniku, hračky i různé domácí přístroje. Specialisté IoT labu se pokusí vaše nefunkční elektronické zařízení
+opravit a zprovoznit. A možná vám ukáží jak na to. Nevyhazujte věci, mohou ještě sloužit nebo se alespoň povídáváme jak jsou udělány a co je slabým místem.
 
 **Podrobný program s časovým plánem letošního ročníku bude zveřejněn dva týdny před seminářem.**
 
