@@ -61,17 +61,16 @@ atrakcí v zámeckém parku, v případě nepříznivého počasí je možné č
 
 Program
 {.h3}
-- **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut. Příklady *přednášek a workshopů* z minulých ročníků:
-• Minecraft, programování v Javě a IoT stavebnice ESPcraft
-• Práce s papírem, výroba hraček a experimentů, recyklace materiálů
-• Mikroskopie, zábavné optické experimenty
-• Nebojte se focení mobilem, pracujeme s dlouhou expozicí
-• Praktická (bio)chemie
-• Jednoduché elektronické obvody, LED svítítka, motůrky a další
-• Kouzla s chemií
-• Stavba raket, testy pohonů a soutěžní letecký den
-• Šicí a vyšívací dílna,
-• Venkovní aktivity, orientační běh, lukostřelba, drony.
+- **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut:
+  * Rozpoznávání gest a ovládání robota pomocí AI 
+  * Jednoduchý elektronický obvod - chytrý květináč si řekne o zálivku
+  * Kouzla s chemií - indikátory pH z domácích surovin
+  * Lumen print - fotografika bez fotoaparátu
+  * Šicí a vyšívací dílna
+  * Uzlovačky a dekorativní uzly
+  * Přívěsek na klíče aneb spojovací materiál M5 trochu jinak
+  * Relaxační gelová hračka
+  * Minecraft v bance (proč a jak)
 - **Veletrh** Trvalá instalace, předváděčka různého vybavení orientovaného na osvojení moderních
 technologií a získání inspirace. 3D tiskárny, vyšívací stroj, programovatelná ruka, chytré diody,
 robotický bublifuk, Gravitrax a mnoho dalšího. *Máte sami nějakou zajímavou hračku či přístroj?
