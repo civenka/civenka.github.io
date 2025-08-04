@@ -13,7 +13,7 @@ menus:
     - name: Program
       weight: 20
       url: "/#td-block-2"
-    - name: Zapojit se
+    - name: Příhlásit se
       weight: 30
       url: "/#td-block-3"
     - name: O stránce

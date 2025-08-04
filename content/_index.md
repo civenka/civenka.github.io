@@ -4,12 +4,12 @@ type: home
 description: Víkendnový seminář Nečtiny 13.-14. září 2025
 ---
 
-{{< blocks/cover title="Víkendový seminář Nečtiny 2025" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Víkendový seminář Nečtiny 2025" image_anchor="top" height="auto" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
   Program semináře
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="#td-block-3">
-  Zapojit se
+  Přihlásit se
 </a>
 <p class="lead mt-3 mb-3 fw-bold">
 13.-14. září 2025 <a href="https://www.zameknectiny.cz/">zámek Nečtiny</a>
@@ -90,7 +90,17 @@ Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za p
 
 
 {{% blocks/section %}}
-Jak se mohu na programu podílet?
+
+Jak se přihlásit?
+{.h1}
+Přihláška zatím není otevřena, vyčkejte prosím.
+Stisknutím tlačítka "přihlásit se" se otevře přihláška. V případě jakýchkoliv dotazů či speciálních potřeb se nám prosím ozvěte viz kontakty níže. Děkujeme a těšíme se na viděnou.
+
+<a class="btn btn-lg btn-primary me-3 mb-4" href="">
+  Přihlásit se
+</a>
+
+Jak se mohu podílet na programu?
 {.h1}
 
 V Nečtinech může být aktivním účastníkem každý. Realizační skupina se ale musí zformovat předem, je třeba vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím *ozvěte, program vzniká i z vašich nápadů*. 
