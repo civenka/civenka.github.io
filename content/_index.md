@@ -64,13 +64,13 @@ Program
 - **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut:
   * Rozpoznávání gest a ovládání robota pomocí AI 
   * Jednoduchý elektronický obvod - chytrý květináč si řekne o zálivku
-  * Kouzla s chemií - indikátory pH z domácích surovin
+  * Kouzla s chemií - vyrobte si přírodní indikátor pH
   * Lumen print - fotografika bez fotoaparátu
   * Šicí a vyšívací dílna
   * Uzlovačky a dekorativní uzly
   * Přívěsek na klíče aneb spojovací materiál M5 trochu jinak
   * Relaxační gelová hračka
-  * Minecraft v bance (proč a jak)
+  * Jak se staví Minecraft herní svět pro banku, děti a vzdělávání - Spořka City!
 - **Veletrh** Trvalá instalace, předváděčka různého vybavení orientovaného na osvojení moderních
 technologií a získání inspirace. 3D tiskárny, vyšívací stroj, programovatelná ruka, chytré diody,
 robotický bublifuk, Gravitrax a mnoho dalšího. *Máte sami nějakou zajímavou hračku či přístroj?
