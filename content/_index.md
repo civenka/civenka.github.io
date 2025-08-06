@@ -4,7 +4,7 @@ type: home
 description: Víkendnový seminář Nečtiny 13.-14. září 2025
 ---
 
-{{< blocks/cover title="Víkendový seminář Nečtiny 2025" image_anchor="top" height="auto" >}}
+{{< blocks/cover title="Víkendový seminář Nečtiny 2025" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
   Program semináře
 </a>
