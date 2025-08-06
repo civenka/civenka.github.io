@@ -93,7 +93,6 @@ Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za p
 
 Jak se přihlásit?
 {.h1}
-Přihláška zatím není otevřena, vyčkejte prosím.
 Stisknutím tlačítka "přihlásit se" se otevře přihláška. V případě jakýchkoliv dotazů či speciálních potřeb se nám prosím ozvěte viz kontakty níže. Děkujeme a těšíme se na viděnou.
 
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/Prk62/">

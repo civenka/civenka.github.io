@@ -5,7 +5,7 @@ kontakt:
 cena:
   weight: 2
   title: Jaká je cena semináře?
-  content: "BUDE AKTUALIZOVÁNO Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 400 Kč pro nečleny a 350 Kč pro členy, děti do 4 let zdarma. Ceny ubytování a stravy v přihlašovacím formuláři vycházejí z následujících jednotkových cen: ubytování 390 Kč za noc, snídaně 140 Kč, oběd 180 Kč, večeře 160 Kč, svačina 100 Kč. Bankovní spojení a variabilní symbol platby Vám po kontrole přihlášky bude zaslán e-mailem. Doklad o zaplacení zašleme v rámci vyúčtování po skončení semináře."
+  content: "Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 400 Kč pro nečleny a 350 Kč pro členy, děti do 4 let zdarma. Ceny ubytování a stravy v přihlašovacím formuláři vycházejí z následujících jednotkových cen: ubytování 390 Kč za noc, snídaně 140 Kč, oběd 180 Kč, večeře 160 Kč, svačina 100 Kč. Bankovní spojení a variabilní symbol platby Vám po kontrole přihlášky bude zaslán e-mailem. Doklad o zaplacení zašleme v rámci vyúčtování po skončení semináře."
 zahrnuje:
   weight: 3
   title: Co zahrnuje účastnický poplatek?
