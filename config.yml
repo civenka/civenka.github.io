@@ -15,7 +15,7 @@ menus:
       url: "/#td-block-2"
     - name: Příhlásit se
       weight: 30
-      url: "/#td-block-3"
+      url: "https://form.simpleshop.cz/Prk62/"
     - name: O stránce
       weight: 40
       pageRef: /about

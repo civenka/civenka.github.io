@@ -8,7 +8,7 @@ description: Víkendnový seminář Nečtiny 13.-14. září 2025
 <a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
   Program semináře
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="#td-block-3">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://form.simpleshop.cz/Prk62/">
   Přihlásit se
 </a>
 <p class="lead mt-3 mb-3 fw-bold">
@@ -96,7 +96,7 @@ Jak se přihlásit?
 Přihláška zatím není otevřena, vyčkejte prosím.
 Stisknutím tlačítka "přihlásit se" se otevře přihláška. V případě jakýchkoliv dotazů či speciálních potřeb se nám prosím ozvěte viz kontakty níže. Děkujeme a těšíme se na viděnou.
 
-<a class="btn btn-lg btn-primary me-3 mb-4" href="">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/Prk62/">
   Přihlásit se
 </a>
 
