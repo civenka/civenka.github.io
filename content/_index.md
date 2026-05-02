@@ -48,8 +48,9 @@ Seminář pro malé i velké
 Co bude na programu?
 {.h1}
 
-Chcete vědět jak to dopadne, když se na jeden víkend v roce přenese [univerzitní makerspace](https://www.iotlab.zcu.cz/) do polohy "zábava a experimenty pro celou rodinu"?
-Především to bude víkend strávený v příjemném a inspirativním prostředí daleko od moderních měst. Akce zaměřená na rozvíjející a inspirativní aktivity pro celou rodinu, děti, dospělé i dospívající. Snažíme se propojit obyčejné věci a pokročilou techniku, motivovat k tvoření a nadšení z poznávání nového.
+Chcete vědět, co se stane, když se [univerzitní makerspace IoT laboratoře ZČU](https://www.iotlab.zcu.cz/) na jeden víkend přesune do historických prostor zámku Nečtiny? Výsledkem je **rodinný víkend plný experimentů, tvoření a technických dílen** pro děti od 8 let i dospělé.
+
+Setkáte se s workshopy z oblasti robotiky, elektroniky, chemie, fotografie i ručních prací — vše v inspirativním prostředí zámeckého parku na Plzeňsku. Program vzniká spojením nápadů, času a nadšenectví. Přispět může každý.
 
 Formát semináře
 {.h3}
