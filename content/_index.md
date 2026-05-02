@@ -61,16 +61,26 @@ atrakcí v zámeckém parku, v případě nepříznivého počasí je možné č
 
 Program
 {.h3}
-- **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut:
-  * Rozpoznávání gest a ovládání robota pomocí AI 
-  * Jednoduchý elektronický obvod - chytrý květináč si řekne o zálivku
-  * Kouzla s chemií - vyrobte si přírodní indikátor pH
-  * Lumen print - fotografika bez fotoaparátu
+- **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut. Program připravujeme, v minulých letech jste se mohli účastnit například:
+  * Minecraft, programování v Javě a IoT stavebnice ESPcraft
+  * Práce s papírem, výroba hraček a experimentů, recyklace materiálů
+  * Mikroskopie, zábavné optické experimenty
+  * Malování světlem – focení s dlouhou expozicí
+  * Praktická (bio)chemie a kouzla s chemií
+  * Jednoduché elektronické obvody, LED svítítka, motůrky
+  * Stavba raket, testy pohonů a soutěžní letecký den
   * Šicí a vyšívací dílna
+  * Venkovní aktivity, orientační běh, lukostřelba, drony
+  * Výroba LED lampiček a lucerniček
+  * Kouzla s hydrofobním ošetřením povrchů
+  * 256 odstínů šedi, aneb co Herout zatajil – nebojte se vydat si knihu
+  * Rozpoznávání gest a ovládání robota pomocí AI
+  * Chytrý květináč si řekne o zálivku
+  * Lumen print – fotografika bez fotoaparátu
   * Uzlovačky a dekorativní uzly
   * Přívěsek na klíče aneb spojovací materiál M5 trochu jinak
   * Relaxační gelová hračka
-  * Jak se staví Minecraft herní svět pro banku, děti a vzdělávání - Spořka City!
+  * Jak se staví Minecraft herní svět pro banku - Spořka City!
 - **Veletrh** Trvalá instalace, předváděčka různého vybavení orientovaného na osvojení moderních
 technologií a získání inspirace. 3D tiskárny, vyšívací stroj, programovatelná ruka, chytré diody,
 robotický bublifuk, Gravitrax a mnoho dalšího. *Máte sami nějakou zajímavou hračku či přístroj?

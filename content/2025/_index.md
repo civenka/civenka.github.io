@@ -25,7 +25,7 @@ atrakcí v zámeckém parku, v případě nepříznivého počasí je možné č
 
 Program
 {.h3}
-- **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut:
+- **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut. Účastníci se mohli například:
   * Rozpoznávání gest a ovládání robota pomocí AI
   * Jednoduchý elektronický obvod - chytrý květináč si řekne o zálivku
   * Kouzla s chemií - vyrobte si přírodní indikátor pH
