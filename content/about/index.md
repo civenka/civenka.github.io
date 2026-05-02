@@ -1,5 +1,5 @@
 ---
-title: O stránce víkendový seminář EurOpen.CZ Nečtiny 2025
+title: O stránce víkendový seminář EurOpen.CZ Nečtiny 2026
 ---
 
 {{% blocks/section color="dark" %}}
@@ -17,6 +17,7 @@ Tyto webová stránky je vytvořené pomocí statického generátoru webů [HUGO
 
 ## Historie
 
+- [Víkendový seminář Nečtiny 2025](https://nectiny.europen.cz/2025)
 - [Víkendový seminář Nečtiny 2024](https://nectiny.europen.cz/2024)
 
 ## Credits

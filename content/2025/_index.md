@@ -1,55 +1,19 @@
 ---
-title: Víkendový seminář EurOpen.CZ Nečtiny
+title: Víkendový seminář EurOpen.CZ Nečtiny 2025
 type: home
-description: Víkendnový seminář Nečtiny 12.-13. září 2026
+description: Víkendnový seminář Nečtiny 13.-14. září 2025
 ---
 
-{{< blocks/cover title="Víkendový seminář Nečtiny 2026" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
-  Program semináře
-</a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="#td-block-3">
-  Zapojit se
-</a>
+{{< blocks/cover title="Víkendový seminář Nečtiny 2025" image_anchor="top" height="auto" >}}
 <p class="lead mt-3 mb-3 fw-bold">
-12.-13. září 2026 <a href="https://www.zameknectiny.cz/">zámek Nečtiny</a>
+Toto je stránka semináře, který proběhl 11.-13. září 2025
 </p>
-<p class="lead mt-3 mb-3">
-Dva dny plné zábavy, experimentů a nových možností jsou určeny
-pro malé i velké, v programu je něco pro každého člena rodiny. Program vzniká složením nápadů, času a nadšenectví, přispět může každý. Podívejte se na seznam aktivit, doplňujte další nápady, navrhujte jak
-pobavit sebe i mladší generaci a něco zajímavého se přiučit.
-<a href="#td-block-3">více o přípravě semináře</a> </p>
-
-{{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-{{% blocks/lead color="primary" %}}
-Seminář pro malé i velké
-{.h1}
-<br>
-{{% cardpane-wide %}}
-  {{% card header="<i class='fab fa-youtube'></i> **Experimenty**" %}}
-  {{< youtubepl id="PLPE6_GTrluAgT_VOeJqvl3RE_tsK7QMTM" title="EurOpen.CZ experiments and creations play list" >}}
-  {{% /card %}}
-  {{% card header="**<i class='fa-solid fa-camera-retro'></i> Pro každého něco**" %}}
-  ![Malování světlem](EurOpen-malovani-svetlem.jpg "")
-  <a href="#td-block-2" class="stretched-link"></a>
-  {{% /card %}}
-  {{% card header="**<i class='fa-solid fa-camera-retro'></i> Foto pískoviště**" %}}
-  ![fotografické pískoviště](piskoviste.jpg "")
-  <a href="https://europen.cz/f" class="stretched-link"></a>
-  {{% /card %}}
-{{% /cardpane-wide %}}
-
-
-{{% /blocks/lead %}}
 
 {{% blocks/section %}}
-Co bude na programu?
+Co bylo na programu?
 {.h1}
-
-Chcete vědět jak to dopadne, když se na jeden víkend v roce přenese [univerzitní makerspace](https://www.iotlab.zcu.cz/) do polohy "zábava a experimenty pro celou rodinu"?
-Především to bude víkend strávený v příjemném a inspirativním prostředí daleko od moderních měst. Akce zaměřená na rozvíjející a inspirativní aktivity pro celou rodinu, děti, dospělé i dospívající. Snažíme se propojit obyčejné věci a pokročilou techniku, motivovat k tvoření a nadšení z poznávání nového.
 
 Formát semináře
 {.h3}
@@ -62,7 +26,7 @@ atrakcí v zámeckém parku, v případě nepříznivého počasí je možné č
 Program
 {.h3}
 - **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut:
-  * Rozpoznávání gest a ovládání robota pomocí AI 
+  * Rozpoznávání gest a ovládání robota pomocí AI
   * Jednoduchý elektronický obvod - chytrý květináč si řekne o zálivku
   * Kouzla s chemií - vyrobte si přírodní indikátor pH
   * Lumen print - fotografika bez fotoaparátu
@@ -79,7 +43,7 @@ nejmenší (interaktivní tabule, zvířátková telefonní ústředna).
 - **Konzultační a servisní koutek** Přivezte si, co vám nefunguje, elektroniku, hračky i různé domácí přístroje. Specialisté IoT labu se pokusí vaše nefunkční elektronické zařízení
 opravit a zprovoznit. A možná vám ukáží jak na to. Nevyhazujte věci, mohou ještě sloužit nebo alespoň zjistíme, jak jsou udělány a co je slabým místem.
 
-**Podrobný program s časovým plánem letošního ročníku bude zveřejněn dva týdny před seminářem.**
+**Podrobný program s časovým plánem letošního ročníku byl zveřejněn dva týdny před seminářem.**
 
 Pro koho je program určen?
 
@@ -89,21 +53,6 @@ Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za p
 
 
 
-{{% blocks/section %}}
-
-Jak se mohu podílet na programu?
-{.h1}
-
-V Nečtinech je aktivním účastníkem každý. Přesto se skupina organizátorů musí zformovat předem,
-vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím *ozvěte,
-program vzniká složením nápadů, času a nadšenectví pod vedením Jiřího Boříka*.
-Kontaktní email je **borik@civ.zcu.cz**.
-
-
-{{% /blocks/section %}}
-
-<!-- your comment text Nested shortcodes with % notation interpret indentation - pre/code block shows up here  -->
-<!-- https://github.com/gohugoio/hugo/issues/11272  -->
 {{% blocks/section %}}
 
 **Programový výbor**
@@ -116,7 +65,3 @@ Zdeněk Šustr
 IoT laboratoř ZČU - https://iotlab.zcu.cz/
 
 {{% /blocks/section %}}
-
-{{< blocks/section color="white" >}}
-{{% bs/accordion data="main.faq"%}}
-{{< /blocks/section >}}
