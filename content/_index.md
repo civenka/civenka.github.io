@@ -1,7 +1,7 @@
 ---
 title: Víkendový seminář EurOpen.CZ Nečtiny
 type: home
-description: Víkendnový seminář Nečtiny 12.-13. září 2026
+description: Víkendový seminář Nečtiny 12.-13. září 2026
 ---
 
 {{< blocks/cover title="Víkendový seminář Nečtiny 2026" image_anchor="top" height="full" >}}

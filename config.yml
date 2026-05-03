@@ -22,6 +22,8 @@ menus:
 
 params:
   subtitle: Víkendový seminář EurOpen.cz Nečtiny 12.-13. září 2026
+  images:
+    - Nectiny-background.jpg
   ui:
     footer_about_disable: false
     navbar_logo: false
