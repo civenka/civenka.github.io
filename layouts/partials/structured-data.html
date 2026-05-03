@@ -1,0 +1,105 @@
+{{ if .IsHome }}
+{{ $data := .Site.Data.main.faq }}
+{{ $imgList := slice }}
+{{ range $.Site.Params.images }}
+  {{ if hasPrefix . "http" }}
+    {{ $imgList = $imgList | append . }}
+  {{ else }}
+    {{ $imgList = $imgList | append (urls.AbsURL .) }}
+  {{ end }}
+{{ end }}
+{{ $questions := slice }}
+{{ range sort (slice $data.kontakt $data.cena $data.zahrnuje $data.adresa $data.kapacita) "weight" }}
+  {{ $questions = $questions | append (dict
+    "@type" "Question"
+    "name" .title
+    "acceptedAnswer" (dict
+      "@type" "Answer"
+      "text" (.content | plainify | replaceRE "\n" " ")
+    )
+  ) }}
+{{ end }}
+{{ $graph := slice
+  (dict
+    "@type" "Organization"
+    "@id" "https://www.europen.cz/#organization"
+    "name" "EurOpen.CZ"
+    "url" "https://www.europen.cz/"
+    "description" "Česká společnost uživatelů otevřených systémů"
+    "address" (dict
+      "@type" "PostalAddress"
+      "streetAddress" "Univerzitní 8"
+      "addressLocality" "Plzeň"
+      "postalCode" "306 14"
+      "addressCountry" "CZ"
+    )
+    "email" "europen@europen.cz"
+    "telephone" "377 632 804"
+    "taxID" "61389081"
+    "sameAs" (slice
+      "https://www.facebook.com/groups/199751946725860/"
+      "https://www.linkedin.com/groups/81933"
+      "https://github.com/europen-cz"
+      "https://groups.google.com/g/europen-cz"
+    )
+  )
+  (dict
+    "@type" "Event"
+    "name" "Víkendový seminář Nečtiny 2026"
+    "description" "Dva dny plné zábavy, experimentů a nových možností pro malé i velké. Rodinný víkend s workshopy z oblasti robotiky, elektroniky, chemie, fotografie a dalších oborů v prostorách zámku Nečtiny."
+    "url" "https://civenka.europen.cz/"
+    "startDate" "2026-09-12"
+    "endDate" "2026-09-13"
+    "eventStatus" "https://schema.org/EventScheduled"
+    "eventAttendanceMode" "https://schema.org/OfflineEventAttendanceMode"
+    "location" (dict
+      "@type" "Place"
+      "name" "Zámek Nečtiny"
+      "url" "https://www.zameknectiny.cz/"
+      "address" (dict
+        "@type" "PostalAddress"
+        "streetAddress" "Nečtiny Hrad 1"
+        "addressLocality" "Nečtiny"
+        "postalCode" "331 62"
+        "addressRegion" "Plzeň-sever"
+        "addressCountry" "CZ"
+      )
+    )
+    "organizer" (dict
+      "@type" "Organization"
+      "@id" "https://www.europen.cz/#organization"
+      "name" "EurOpen.CZ"
+    )
+    "image" $imgList
+    "offers" (dict
+      "@type" "AggregateOffer"
+      "lowPrice" "350"
+      "highPrice" "400"
+      "priceCurrency" "CZK"
+      "url" "https://civenka.europen.cz/"
+      "availability" "https://schema.org/InStock"
+    )
+  )
+  (dict
+    "@type" "FAQPage"
+    "mainEntity" $questions
+  )
+}}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify (dict "indent" "  ") | safeHTML }}
+</script>
+{{ else }}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "WebPage"
+  "name" .Title
+  "description" (.Description | default .Site.Params.description)
+  "url" .Permalink
+  "publisher" (dict
+    "@type" "Organization"
+    "@id" "https://www.europen.cz/#organization"
+    "name" "EurOpen.CZ"
+  ) | jsonify (dict "indent" "  ") | safeHTML }}
+</script>
+{{ end }}
