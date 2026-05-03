@@ -1,7 +1,7 @@
 ---
 title: Víkendový seminář EurOpen.CZ Nečtiny 2024
 type: home
-description: Víkendnový seminář Nečtiny 21.-22. září 2024
+description: Víkendový seminář Nečtiny 21.-22. září 2024
 ---
 
 {{< blocks/cover title="Víkendový seminář Nečtiny 2024" image_anchor="top" height="auto" >}}
@@ -12,11 +12,9 @@ Toto je stránka semináře, který proběhl 20.-22. září 2024
 
 
 {{% blocks/section %}}
-Co bylo na programu?
-{.h1}
+## Co bylo na programu?
 
-Formát semináře
-{.h3}
+### Formát semináře
 
 - **Pátek** možno přijet v pátek večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
 - **Sobota** *začátek v 10h, program do večera*, součástí je oběd a večeře. Zámek Nečtiny nabízí nejen učebny, ale i možnost pokusů a
@@ -24,8 +22,7 @@ atrakcí v zámeckém parku, v případě nepříznivého počasí je možné č
 v parku. Táborák a v případě dobrého počasí pozorování oblohy s odborným výkladem, rojení broučků s lucerničkami či kolektivní tvorba noční fotografie s dlouhou expozicí.
 - **Neděle** *organizovaný program od 9 do 13h*, poté oběd a individuální program podle počasí a situace (okolní houbařské lesy a turistické cíle). Tradiční je také podpora fotografům, sdílené fotografické pískoviště a inspirace pro práci se světlem. [Popis okolí a možných výletů](https://www.zameknectiny.cz/vylety).
 
-Program
-{.h3}
+### Program
 - **Veletrh** Trvalá instalace, předváděčka různého vybavení orientovaného na osvojení moderních
 technologií a získání inspirace. 3D tiskárny, vyšívací stroj, programovatelná ruka, chytré diody,
 robotický bublifuk, Gravitrax a mnoho dalšího. *Máte sami nějakou zajímavou hračku či přístroj?
@@ -45,7 +42,7 @@ nejmenší (interaktivní tabule, zvířátková telefonní ústředna).
 - **Konzultační a servisní koutek** Přivezte si, co vám nefunguje. Specialisté IoT labu se pokusí vaše nefunkční elektronické zařízení
 opravit a zprovoznit. A možná vám ukáží jak na to.
 
-Pro koho je program určen?
+### Pro koho je program určen?
 
 Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za podpory rodičů. Myslíme ale na každého, nezapomínáme na maminky (šicí dílna) ani na teenagery, kterým speciálně doporučujeme zapojit se do organizace a ad-hoc aktivit pro mladší kamarády.
 

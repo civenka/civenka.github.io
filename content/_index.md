@@ -24,8 +24,7 @@ pobavit sebe i mladší generaci a něco zajímavého se přiučit.
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-Seminář pro malé i velké
-{.h1}
+## Seminář pro malé i velké
 <br>
 {{% cardpane-wide %}}
   {{% card header="<i class='fab fa-youtube'></i> **Experimenty**" %}}
@@ -45,23 +44,20 @@ Seminář pro malé i velké
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
-Co bude na programu?
-{.h1}
+## Co bude na programu?
 
 Chcete vědět, co se stane, když se [univerzitní makerspace IoT laboratoře ZČU](https://www.iotlab.zcu.cz/) na jeden víkend přesune do historických prostor zámku Nečtiny? Výsledkem je **rodinný víkend plný experimentů, tvoření a technických dílen** pro děti od 8 let i dospělé.
 
 Setkáte se s workshopy z oblasti robotiky, elektroniky, chemie, fotografie i ručních prací — vše v inspirativním prostředí zámeckého parku na Plzeňsku. Program vzniká spojením nápadů, času a nadšenectví. Přispět může každý.
 
-Formát semináře
-{.h3}
+### Formát semináře
 
 - **Pátek** možno přijet v pátek večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
 - **Sobota** *začátek v 10h, program do večera*, součástí je oběd a večeře. Zámek Nečtiny nabízí nejen učebny, ale i možnost pokusů a
 atrakcí v zámeckém parku, v případě nepříznivého počasí je možné část aktivit přesunout do tělocvičny. Využití členitého parku a malebného okolí zámku na různé technické i netechnické činnosti. Třeba letecký den pro drony, hydraulické a pneumatické rakety nebo stopovačka parkem. Táborák a v případě dobrého počasí pozorování oblohy s odborným výkladem, rojení broučků s lucerničkami či kolektivní tvorba noční fotografie s dlouhou expozicí.
 - **Neděle** *organizovaný program od 9 do 13h*, poté oběd a individuální program podle počasí a situace (okolní houbařské lesy a turistické cíle). Tradiční je také podpora fotografům, sdílené [fotografické pískoviště](https://europen.cz/f) a inspirace pro práci se světlem. [Popis okolí a možných výletů](https://www.zameknectiny.cz/vylety).
 
-Program
-{.h3}
+### Program
 - **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut. Program připravujeme, v minulých letech jste se mohli účastnit například:
   * Minecraft, programování v Javě a IoT stavebnice ESPcraft
   * Práce s papírem, výroba hraček a experimentů, recyklace materiálů
@@ -92,7 +88,7 @@ opravit a zprovoznit. A možná vám ukáží jak na to. Nevyhazujte věci, moho
 
 **Podrobný program s časovým plánem letošního ročníku bude zveřejněn dva týdny před seminářem.**
 
-Pro koho je program určen?
+### Pro koho je program určen?
 
 Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za podpory rodičů. Myslíme ale na každého, nezapomínáme na maminky (šicí dílna) ani na teenagery, kterým speciálně doporučujeme zapojit se do organizace a ad-hoc aktivit pro mladší kamarády.
 
@@ -102,8 +98,7 @@ Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za p
 
 {{% blocks/section %}}
 
-Jak se mohu podílet na programu?
-{.h1}
+## Jak se mohu podílet na programu?
 
 V Nečtinech je aktivním účastníkem každý. Přesto se skupina organizátorů musí zformovat předem,
 vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím *ozvěte,

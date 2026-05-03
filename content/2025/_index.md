@@ -1,7 +1,7 @@
 ---
 title: Víkendový seminář EurOpen.CZ Nečtiny 2025
 type: home
-description: Víkendnový seminář Nečtiny 13.-14. září 2025
+description: Víkendový seminář Nečtiny 13.-14. září 2025
 ---
 
 {{< blocks/cover title="Víkendový seminář Nečtiny 2025" image_anchor="top" height="auto" >}}
@@ -12,19 +12,16 @@ Toto je stránka semináře, který proběhl 11.-13. září 2025
 
 
 {{% blocks/section %}}
-Co bylo na programu?
-{.h1}
+## Co bylo na programu?
 
-Formát semináře
-{.h3}
+### Formát semináře
 
 - **Pátek** možno přijet v pátek večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
 - **Sobota** *začátek v 10h, program do večera*, součástí je oběd a večeře. Zámek Nečtiny nabízí nejen učebny, ale i možnost pokusů a
 atrakcí v zámeckém parku, v případě nepříznivého počasí je možné část aktivit přesunout do tělocvičny. Využití členitého parku a malebného okolí zámku na různé technické i netechnické činnosti. Třeba letecký den pro drony, hydraulické a pneumatické rakety nebo stopovačka parkem. Táborák a v případě dobrého počasí pozorování oblohy s odborným výkladem, rojení broučků s lucerničkami či kolektivní tvorba noční fotografie s dlouhou expozicí.
 - **Neděle** *organizovaný program od 9 do 13h*, poté oběd a individuální program podle počasí a situace (okolní houbařské lesy a turistické cíle). Tradiční je také podpora fotografům, sdílené [fotografické pískoviště](https://europen.cz/f) a inspirace pro práci se světlem. [Popis okolí a možných výletů](https://www.zameknectiny.cz/vylety).
 
-Program
-{.h3}
+### Program
 - **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut. Účastníci se mohli například:
   * Rozpoznávání gest a ovládání robota pomocí AI
   * Jednoduchý elektronický obvod - chytrý květináč si řekne o zálivku
@@ -45,7 +42,7 @@ opravit a zprovoznit. A možná vám ukáží jak na to. Nevyhazujte věci, moho
 
 **Podrobný program s časovým plánem letošního ročníku byl zveřejněn dva týdny před seminářem.**
 
-Pro koho je program určen?
+### Pro koho je program určen?
 
 Většina aktivit je určena pro děti 8-15 let, případně i pro mladší za podpory rodičů. Myslíme ale na každého, nezapomínáme na maminky (šicí dílna) ani na teenagery, kterým speciálně doporučujeme zapojit se do organizace a ad-hoc aktivit pro mladší kamarády.
 
